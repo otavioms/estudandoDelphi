@@ -1,10 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2024/11/12 22:09:01.351,=C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/12 22:12:11.302,C:\Meu\Estudos\AprendendoDelphi\Unit1.pas=C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/12 22:12:11.302,C:\Meu\Estudos\AprendendoDelphi\Unit1.dfm=C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2024/11/12 22:12:13.688,C:\Meu\Estudos\AprendendoDelphi\Project1.dproj=C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2024/11/12 22:18:58.984,C:\Meu\Estudos\AprendendoDelphi\estudandoDelphi.dproj=C:\Meu\Estudos\AprendendoDelphi\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2024/11/12 22:09:01.000.351,=C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/12 22:12:11.000.302,C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Meu\Estudos\AprendendoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/11/12 22:12:11.000.302,C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Meu\Estudos\AprendendoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/11/12 22:12:13.000.688,C:\Users\otavi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Meu\Estudos\AprendendoDelphi\Project1.dproj</Transaction>
+    <Transaction>2024/11/12 22:18:58.000.984,C:\Meu\Estudos\AprendendoDelphi\Project1.dproj=C:\Meu\Estudos\AprendendoDelphi\estudandoDelphi.dproj</Transaction>
+    <Transaction>2024/11/12 22:48:26.731,C:\Meu\Estudos\AprendendoDelphi\variaveis_e_tipo_de_dados.pas=C:\Meu\Estudos\AprendendoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/11/12 22:48:26.731,C:\Meu\Estudos\AprendendoDelphi\variaveis_e_tipo_de_dados.dfm=C:\Meu\Estudos\AprendendoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/11/12 22:49:08.206,=C:\Meu\Estudos\AprendendoDelphi\Unit2.pas</Transaction>
+    <Transaction>2024/11/12 22:50:12.526,C:\Meu\Estudos\AprendendoDelphi\procedure_e_function.dfm=C:\Meu\Estudos\AprendendoDelphi\Unit2.dfm</Transaction>
+    <Transaction>2024/11/12 22:50:12.526,C:\Meu\Estudos\AprendendoDelphi\procedure_e_function.pas=C:\Meu\Estudos\AprendendoDelphi\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>
