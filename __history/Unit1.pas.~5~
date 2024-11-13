@@ -1,0 +1,49 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+  private
+    { No campo private são declaradas varíaveis privadas onde somente a própia unit
+    terá o acesso a ela }
+
+  public
+    { No campo public são declaradas variáveis que podem ser acessadas apor outras partes
+    do sistema, como no campo var }
+
+  end;
+
+var
+  {No campo var são declaras as variáveis globais, o que significa  que poderá ser acessar
+  de qualquer parte do sistema.}
+
+    //É usado o integer para se declarar variáveis de números inteiros.
+  variavelNumeroInteiro: integer;
+
+  //É usado o currecy para se declarar variáveis em formato monetário.
+  variavelNumeroMonoterio: currency;
+
+  //É usado o double para se declarar variáveis para números com grande casas decimais.
+  variavelNumeroComDecimal: double;
+
+  //É usado o string para se declarar variáveis no formato de texto.
+  varialvelTexto: string;
+
+  //É usado o double para se declarar variáveis em que o retorno será verdadeiro ou falso.
+  variaveLogica: boolean;
+
+  //É usado o TDateTime para se declarar variáveis em formato de data/hora.
+  variavelData: TDateTime;
+
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+end.
